@@ -13,10 +13,10 @@ After you are done with a task you can mark it done. Click on the + button to ad
 
 ## Deployment
 
-The application is deployed on Heroku and it uses Mongo DB as database.
+The application is deployed on GitHub Pages and it uses Mongo DB as database.
 To access the application you can visit the following link
 
-[To Do List](https://aqueous-meadow-94570.herokuapp.com/)
+[To Do List](https://aryannewyork.github.io/To-Do-List-Version-3/)
 
 - It should look something like this
 
